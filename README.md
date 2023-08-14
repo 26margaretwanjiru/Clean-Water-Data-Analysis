@@ -15,7 +15,8 @@ Sustainable Development Goal 6 is about "clean water and sanitation for all". It
 
 I took some inspiration from this facts and figures; to analyze water data from by the United Nations SDG 6 Data Portal i.e. (https://sdg6data.org/en/tables) to understand and visualize basic water services, water free of contamination and availability of safe water in schools in African countries.
 
-![image](https://github.com/26margaretwanjiru/Clean-Water-Data-Analysis/assets/34502518/3d7871a0-03d0-4dc8-bede-c10994c2c0ff)
+![image](https://github.com/26margaretwanjiru/Clean-Water-Data-Analysis/assets/34502518/c235aca6-fb73-49bf-953c-01ca52ce8f29)
+
 
 
 
